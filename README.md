@@ -1,6 +1,6 @@
 # airbnb-clone-project.
 
-A simplified clone of the Airbnb platform built as part of my ALX Software Engineering program. The project focuses on replicating key features of Airbnb's user interface and functionality, such as property listings, responsive layout, and modern UI design.
+A simplified clone of the Airbnb platform built as part of my ALX Software Engineering program. The project focuses on replicating key features of Airbnb's user interface and functionality, such as property listings, responsive layout, and modern UI design. 
 
 ## 🚀 Project Overview
 
